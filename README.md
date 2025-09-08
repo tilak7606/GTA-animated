@@ -17,14 +17,14 @@ This project showcases smooth animations, modern UI, and a playful design inspir
 ## 📸 Screenshots
 
 ### Home Section  
-![Homepage Screenshot](./assets/screenshots/home.png)
+<img width="1194" height="739" alt="Screenshot 2025-09-08 182935" src="https://github.com/user-attachments/assets/8a7130ee-08cb-4488-ace2-4eb0d07d0242" />
+
 
 ### Animated Section  
-![Animated Screenshot](./assets/screenshots/animated.png)
+<img width="1185" height="756" alt="Screenshot 2025-09-08 182925" src="https://github.com/user-attachments/assets/6dc45884-acd6-4291-ae45-542eb88facc5" />
 
-*(Replace with your actual screenshots or use the ones you uploaded.)*
 
----
+
 
 ## 🛠️ Tech Stack
 - [React](https://react.dev/) – Frontend framework  
