@@ -1,17 +1,52 @@
-# React + Vite
+# 🎮 GTA Animated Homepage
 
-#demo
-![Screenshot (8)](https://github.com/user-attachments/assets/d50bce6c-1dbb-47fa-ace3-d7c78da80ce8)
-![Screenshot (7)](https://github.com/user-attachments/assets/dd4b5995-e68f-4fac-9e44-d162defdc366)
+An animated **Grand Theft Auto (GTA)** style landing page built with **React**, **Vite**, and **Framer Motion**.  
+This project showcases smooth animations, modern UI, and a playful design inspired by Rockstar’s GTA universe.  
 
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Features
+- ⚡ **React + Vite** for fast development & build  
+- 🎬 **Framer Motion** for smooth animations  
+- 🎨 GTA-inspired **modern UI/UX**  
+- 📱 Fully **responsive design**  
+- 🖼️ Custom **illustrations & artwork**  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshots
 
-## Expanding the ESLint configuration
+### Home Section  
+![Homepage Screenshot](./assets/screenshots/home.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Animated Section  
+![Animated Screenshot](./assets/screenshots/animated.png)
+
+*(Replace with your actual screenshots or use the ones you uploaded.)*
+
+---
+
+## 🛠️ Tech Stack
+- [React](https://react.dev/) – Frontend framework  
+- [Vite](https://vitejs.dev/) – Fast build tool  
+- [Framer Motion](https://www.framer.com/motion/) – Animation library  
+- [Tailwind CSS] (optional, if you used it) – Styling  
+
+---
+
+## 📦 Installation & Setup
+
+Clone the repository and run locally:
+
+```bash
+# Clone the repo
+git clone https://github.com/tilak7606/GTA-animated.git
+
+# Navigate into the project
+cd gta-animated-homepage
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
